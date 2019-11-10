@@ -1,0 +1,21 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+tensorflow = "*"
+numpy = "*"
+xgboost = "*"
+scipy = "*"
+scikit-learn = "*"
+matplotlib = "*"
+ipython = "*"
+jupyter = "*"
+pandas = "*"
+ipykernel = "*"
+
+[requires]
+python_version = "3.7"
