@@ -16,7 +16,7 @@ ipython = "*"
 jupyter = "*"
 pandas = "*"
 ipykernel = "*"
-statsmodels = "*"
+nb-black = "*"
 
 [requires]
 python_version = "3.7"
