@@ -17,6 +17,7 @@ jupyter = "*"
 pandas = "*"
 ipykernel = "*"
 nb-black = "*"
+pygam = "*"
 
 [requires]
 python_version = "3.7"
